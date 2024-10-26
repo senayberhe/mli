@@ -1,0 +1,15 @@
+name: mli
+channels:
+  - defaults
+dependencies:
+  - python==3.10.13
+  - matplotlib
+  - numpy
+  - pandas
+  - scikit-learn
+  - kaggle
+  - prophet
+  - plotly
+  - imbalanced-learn
+  - conda
+prefix: /opt/anaconda3/envs/mli
